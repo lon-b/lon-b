@@ -7,6 +7,6 @@
 
 > ### ⚡ Fun fact:
 > 
-> - It would take roughly **379 billion hats** to cover the surface of the moon with hats.
-> - and it would take roughtly **8.720 trillion hats** to cover the land and ocean surfaces of Earth.
+> - It would take roughly **379 billion hats** to cover the surface of the Moon with hats.
+> - and it would take roughly **8.720 trillion hats** to cover the land and ocean surfaces of Earth.
 > (according to ***ChatGPT*** at least)
