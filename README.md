@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-#### A few infos about me
+### A few infos about me
 
 - 🌱 I’m currently **learning** the basics of Linux, Terminal commands, git, Github, and Python.
 - ✈️ I like **traveling**, going **outside**, ***technology***, video games, *crocheting*... etc. 
